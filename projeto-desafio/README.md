@@ -13,6 +13,7 @@ Para gerar seu token de autenticação é necessário enviar uma requisição vi
 --header 'Accept: application/json' \
 --form 'email="Seu e-mail"' \
 --form 'password="Sua Senha"'
+```
 
 ### Response
 
@@ -29,6 +30,7 @@ Para gerar seu token de autenticação é necessário enviar uma requisição vi
         "updated_at": "2024-10-28T08:03:18.000000Z"
     }
 }
+```
 
 **Cabeçalho de Autenticação:**
 
